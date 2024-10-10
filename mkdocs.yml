@@ -1,6 +1,6 @@
 site_name: Notes
 nav:
-  - Weight Loss: weight.md
+  - Home: index.md
 theme:
   name: material
 markdown_extensions:
